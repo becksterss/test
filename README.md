@@ -2,9 +2,6 @@
 
 Just give some instructions
 
-* pizzass (TODO) # future folders
-* saucees (TODO)
-* spreadz (TODO)
-
-uh ohhh stuff messed up
-gonna change this with mistakes
+* pizzas (TODO) # future folders
+* sauces (TODO)
+* spreads (TODO)
