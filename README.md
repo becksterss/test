@@ -7,3 +7,4 @@ Just give some instructions
 * spreadz (TODO)
 
 uh ohhh stuff messed up
+gonna change this with mistakes
