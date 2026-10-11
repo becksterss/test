@@ -7,5 +7,3 @@ Just give some instructions
 * spreads (TODO)
 * toppings (TODO) # continuing on even with the mistake
 
-# ok this time im gonna figure it out
-OOOOPSSSSSSSS
