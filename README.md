@@ -7,7 +7,7 @@ Just give some instructions
 * spreads (TODO)
 * toppings
 
-OOOOOOPSSSSSSSSS ehehehe
+OOOOOOPSSSSSSSSS
 
 # wait oh no i made a mistake and actually want to learn how to revert it
 
