@@ -2,8 +2,8 @@
 
 Just give some instructions
 
-+ * pizzas
-+   - [base](./pizzas/base.md)
+* pizzas
+  - [base](./pizzas/base.md)
 * sauces (TODO)
 * spreads (TODO)
 * toppings (TODO) # continuing on even with the mistake
