@@ -2,8 +2,7 @@
 
 Just give some instructions
 
-* pizzas
-+   - [base](./pizzas/base.md)
+* pizzas (TODO) # future folders
 * sauces (TODO)
 * spreads (TODO)
 * toppings (TODO) # continuing on even with the mistake
